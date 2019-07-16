@@ -10,6 +10,8 @@
 
 <h1>LISTA DE E-MAILS</h1>
 
+<h1>LISTA DE ESPERA</h1>
+
 <form method="post" action="cliente">
 	E-mail:
 	<input type="text" name="email" />
